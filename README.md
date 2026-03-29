@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [杭州药企/生物公司招聘信息汇总](./hangzhou-pharma-biotech-recruitment.md) - 2026年3月29日
 - [紧急报障服务处理SOP](./emergency-support-sop.md) - 2026年3月20日
 
 ---
